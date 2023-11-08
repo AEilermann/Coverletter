@@ -1,0 +1,37 @@
+h1{
+    text-align: center;
+}
+
+#top{
+    font-weight: bold;
+}
+#cover-letter{
+    display: flex;
+    justify-content: center;
+    padding-left: 5vw;
+    padding-right: 5vw;
+}
+#info{
+    border: 2px solid;
+    background-color: rgb(254, 231, 235);
+}
+#info p, #info h2{
+    padding-left: 20px;
+    padding-right: 20px;
+}
+#content{
+    margin-left: 10px;
+    padding-right: 30px;
+    padding-left: 30px;
+    
+}
+
+img{
+    width: 200px;
+    padding-left: 20px;
+    padding-right: 20px;
+    padding-top: 20px;
+}
+#name{
+    font-family: 'Lucida Handwriting', cursive, sans-serif;
+}
